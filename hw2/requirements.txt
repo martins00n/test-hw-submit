@@ -1,0 +1,2 @@
+# Add homework-specific dependencies here. Leave empty if none are required.
+etna==3.0.0
